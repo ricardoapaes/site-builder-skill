@@ -67,6 +67,9 @@ Sempre que projetar ou codificar uma página, você deve coordenar as seguintes 
    - Proibido usar jargões corporativos vazios ("soluções de excelência", "sinergia", "líder de mercado").
    - Escreva chamadas diretas, transparentes e orientadas à ação que o cliente local precisa resolver.
 
+5. **Ativos Visuais & Branding (Opcional — carregue `design`, se disponível):**
+   - Quando o briefing pedir geração ou criação de logos, ícones SVG, banners ou peças visuais de apoio não fornecidas pelo projeto, carregue a skill `design` como recurso opcional, mantendo a entrega final com SVGs inline leves e sem dependências externas.
+
 ---
 
 ## Padrões de Código e Entrega
